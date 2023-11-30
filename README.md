@@ -1,4 +1,4 @@
 # POO
-Disciplina de POO (Criei só pra postar o codigo do trabalho)
+Disciplina de POO (Para upload de trabalhos/Provas)
 
 Grupo: IAGO (EU)
