@@ -1,0 +1,43 @@
+1 - 
+Exibir mensagem de erro;
+Retornar um código de erro;
+Desconsiderar operação.
+
+2 - 
+Exibir mensagem de erro:
+Ficamos atrelados à interface texto e a mensagem de erro só mostraria no console. Mas se estivessemos usando uma interface gráfica, não iriamos (usuario) olhar o console, então o erro passaria despercebido.
+
+Retornar um código de erro:
+Teriamos que fazer verificações em todos os códigos de erro, tendo que fazer mais código.
+Ao retornar um código de erro somente, não teremos informações decentes sobre o erro.
+
+Desconsiderar operação:
+Caso a falha seja critica, o programa vai eventualmente parar de vez, já que o erro está simplesmente sendo "mascarado".
+
+3 - Na pasta com os códigos - Foi implementado, está nos códigos.
+
+4 - Na pasta com os códigos - Comentado no código
+
+5 - Na pasta com os códigos - Coloquei o comentario la
+
+6 - Na pasta com os códigos - Coloquei as exceções no construtor e metodos para caso o saldo seja negativo.
+
+7 - Na pasta com os códigos - Criei os erros.
+
+8 - Na pasta com os códigos - Coloquei nos metodos consultar e consultar por indice as exceções.
+
+9 - Na pasta com os códigos - Fiz as alterações nos códigos e comentei em cima dos códigos alterados (Classe Banco).
+
+10 - Na pasta com os códigos - Fiz as Alterações no metodo depositar e no construtor da classe Conta.
+
+11 - Na pasta com os códigos - Fiz a alteração denovo, por isso as alterações da questão 10 não serão visiveis
+
+12 - Na pasta com os códigos - Criei a exceção PoupancaInvalida e implementei no método
+
+13 - Na pasta com os códigos - Criei a validação com try catch e comentei no código onde fiz a alteração
+
+14 - Não sei como responder essa questão, porém na questão 15 eu tratei de todas as exceções.
+
+15 - Criei a exceção OpcaoInvalidaError para caso o usuario digite numero menor que 0 ou maior que 10  na hora de digitar uma opção do menu e o método que implementa isso está no pacote "classesAux.MetodosAuxiliaresApp"; E usei catch em todos os outros erros que podem dar na hora de inserir os dados.
+
+
