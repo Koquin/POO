@@ -1,0 +1,21 @@
+1 - Não podemos instanciar classes abstratas pelo fato de elas não terem construtores.
+
+2 - É necessario que a classe concreta implemente o metodo "imprimaAlgo()", já que qualquer classe que estenda ou implemente uma classe abstrata precisa implementar todos os seus métodos.
+
+3 - Não irá compilar - a IDE mostrará o problema de não ter implementado os métodos antes mesmo de compilar.
+
+4 - Está na pasta com os códigos prova2.questao4e5 - Fiz o quadrado, circulo, retangulo e triangulo
+
+5 - Não da pra fazer isso em java, mas em TypeScript da pra fazer por que o typescript entende que o array pode aceitar qualquer subtipo de FiguraGeometrica (por exemplo, quadrado).
+
+6 - Está na pasta com os códigos questao6 - Criei as classes
+
+7 - Está na pasta com os códigos questao7 - Refiz a questao 04 usando interface
+
+8 - Esta na pasta com códigos Questao8 - Criei a interface
+
+9 - Esta na pasta com os codigos Questao9 - Testei as figuras
+
+10 - Esta na pasta com os códigos questao10e11 - Criei as classes e interfaces
+
+11 - Esta na pasta com os códigos questao10e11 - Fiz a classe AutoriaInterna e os testes
